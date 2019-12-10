@@ -1,4 +1,5 @@
 def square_array(numbers)
+  new_arr = []
   numbers.each { return new_arr << num ** 2 }
   end
 end
