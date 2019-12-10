@@ -21,4 +21,4 @@ describe '#square_array' do
 
 end
 
-square_array([1,2,3]
+square_array([1,2,3])
