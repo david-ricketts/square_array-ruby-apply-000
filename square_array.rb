@@ -2,6 +2,11 @@ def square_array(numbers)
   numbers.each { return new_arr << num ** 2 }
   end
 end
+
+
+
+
+
 def create_an_empty_array
     []
 end
