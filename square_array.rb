@@ -1,6 +1,7 @@
 def square_array(numbers)
   new_arr = []
-  numbers.each { |num| return new_arr << num ** 2 }
+  numbers.each { |num| new_arr << num ** 2 }
+  return new_arr
 end
 
 
